@@ -44,5 +44,4 @@ Yes.
 
 
 == Screenshots ==
-1. UI for the admin view.
-2. List of hover projects stored on the database.
+1. Custom Widget for embed codes.
