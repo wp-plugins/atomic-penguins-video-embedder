@@ -8,7 +8,7 @@ Author: Atomic Penguins
 Version: 1.0
 License: GPLv2 or later
 Donate link: none
-Tested up to: 4.1.2
+Tested up to: 4.2
 Requires at least: 4.1.2
 Stable Tag: 1.0
 
